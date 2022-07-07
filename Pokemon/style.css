@@ -1,0 +1,114 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+#pokemon{
+    margin-left: 100px;
+    margin-right:0px;
+    float:left;
+}
+#text{
+    float:right;
+}
+#b{
+    margin-top: 40px;
+}
+#b1{
+    font-family: cursive;
+}
+#btn{
+    margin-top: 20px;
+    border-radius: 10px;
+    background:yellow;
+    font-size: large;
+    font-family: cursive;
+}
+#btn:hover{
+    margin-top: 20px;
+    border-radius: 10px;
+    background: green;
+    font-size: large;
+    font-family: cursive;
+}
+
+body{
+    background-color: bisque;
+}
+#btn2{
+    margin-top: 20px;
+    border-radius: 10px;
+    background:lightcyan;
+    font-size: large;
+    font-family: cursive;
+}
+#btn2:hover{
+    margin-top: 20px;
+    border-radius: 10px;
+    background:lightgreen;
+    font-size: large;
+    font-family: cursive;
+}
+
+#main{
+    align-items:center;
+    margin: auto;
+    margin-left: 30px;
+  border: 3px solid green;
+    background-color: azure;
+  padding: 10px;
+  display: inline-grid;
+  grid-template-columns: auto auto auto auto auto;
+ 
+}
+#main:hover{
+    align-items:center;
+    margin: auto;
+    margin-left: 30px;
+  border: 3px solid blue;
+    background-color: aliceblue;
+  padding: 10px;
+  display: inline-grid;
+  grid-template-columns: auto auto auto auto auto;
+ 
+}
+#div1{
+    width: 250px;
+    height: 250px;
+}
+#div2{
+    width: 250px;
+    height: 250px;
+    
+}
+#div3{
+    width: 250px;
+    height:250px;
+    
+}
+#div4{
+    width: 250px;
+    height: 250px;
+  
+    
+}
+#div5{
+    width: 250px;
+    height: 250px;
+    
+}
+h2{
+    font-family: cursive;
+    margin-left: 10px;
+}
+h1{
+    font-style: italic;
+    font-family: cursive;
+    text-align: center;
+}
